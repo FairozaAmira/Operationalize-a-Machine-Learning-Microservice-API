@@ -39,4 +39,4 @@ The project goal is to operationalize this working, machine learning microservic
 
 ## Contact info
 
-[fairozaamira@gmail.com]
+fairozaamira@gmail.com
